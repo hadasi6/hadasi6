@@ -7,8 +7,8 @@ I'm a quick learner and a dedicated Computer Science student with excellent inte
 My journey into programming began nearly four years ago when I took an online coding course that opened my eyes to a whole new world, prompting me to shift my academic focus from psychology to computer science.
 That moment sparked a journey of continuous evolution, fueled by curiosity, hard work, and a genuine passion for technology.
 
-🌊 I dive into deep waters and embrace every challenge with a "can do" spirit and a firm commitment to high standards—ensuring I overcome<br>
-&nbsp;&nbsp;&nbsp;&nbsp; obstacles in the best possible way.
+🌊 I dive into deep waters and embrace every challenge with a "can do" spirit and a firm commitment to high <br>
+&nbsp;&nbsp;&nbsp;&nbsp; standards—ensuring I overcome obstacles in the best possible way.
 
 🌱 I value continuous growth and the power of diverse ideas, always bringing fresh energy and dedication to every task.
 
