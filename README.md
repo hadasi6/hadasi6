@@ -1,16 +1,19 @@
-## Hi there 👋
+> *“The important thing is not to stop questioning. Curiosity has its own reason for existing.”*
+> — 𝓐𝓵𝓫𝓮𝓻𝓽 𝓔𝓲𝓷𝓼𝓽𝓮𝓲𝓷
 
-<!--
-**hadasi6/hadasi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi there 👋 my name is Hadas Elezra**
 
-Here are some ideas to get you started:
+I'm a quick learner and a dedicated Computer Science student with excellent interpersonal skills.
+My journey into programming began nearly four years ago when I took an online coding course that opened my eyes to a whole new world, prompting me to shift my academic focus from psychology to computer science.
+That moment sparked a journey of continuous evolution, fueled by curiosity, hard work, and a genuine passion for technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌊 I dive into deep waters and embrace every challenge with a "can do" spirit and a firm commitment to high standards—ensuring I overcome<br>
+&nbsp;&nbsp;&nbsp;&nbsp; obstacles in the best possible way.
+
+🌱 I value continuous growth and the power of diverse ideas, always bringing fresh energy and dedication to every task.
+
+🛠️ **Skills:** Python / Java / C / C++ / Git
+
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/hadas-elezra) or at hadaselezra@gmail.com.  
+
+---
