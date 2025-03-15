@@ -10,7 +10,8 @@ That moment sparked a journey of continuous evolution, fueled by curiosity, hard
 🌊 I dive into deep waters and embrace every challenge with a "can do" spirit and a firm commitment to high <br>
 &nbsp;&nbsp;&nbsp;&nbsp; standards—ensuring I overcome obstacles in the best possible way.
 
-🌱 I value continuous growth and the power of diverse ideas, always bringing fresh energy and dedication to every task.
+🌱 I value continuous growth and the power of diverse ideas, always bringing fresh energy and dedication to every <br>
+&nbsp;&nbsp;&nbsp;&nbsp; task.
 
 🛠️ **Skills:** Python / Java / C / C++ / Git
 
