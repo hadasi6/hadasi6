@@ -3,7 +3,7 @@
 
 **Hi there 👋 my name is Hadas Elezra**
 
-I'm a quick learner and a dedicated Computer Science student with excellent interpersonal skills.
+I'm a quick learner and a dedicated Computer Science student with excellent interpersonal skills.<br>
 My journey into programming began nearly four years ago when I took an online coding course that opened my eyes to a whole new world, prompting me to shift my academic focus from psychology to computer science.
 That moment sparked a journey of continuous evolution, fueled by curiosity, hard work, and a genuine passion for technology.
 
