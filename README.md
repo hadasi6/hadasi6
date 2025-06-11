@@ -14,6 +14,7 @@ That moment sparked a journey of continuous evolution, fueled by curiosity, hard
 &nbsp;&nbsp;&nbsp;&nbsp; task.
 
 🛠️ **Skills:** Python | Java | C | C++ | Git | SQL | OOP 
+&nbsp;&nbsp;&nbsp;&nbsp; standards—ensuri
  &nbsp;&nbsp;&nbsp;&nbsp;                                *(familiar: Pandas, NumPy)*  
 
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/hadas-elezra) or at hadaselezra@gmail.com.  
