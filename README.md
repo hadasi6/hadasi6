@@ -19,6 +19,6 @@ That moment sparked a journey of continuous evolution, fueled by curiosity, hard
  🎓 **Relevant Coursework:**  
 Operating Systems, Data Structures & Algorithms, Databases, Computer Architecture, Machine Learning
 
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/hadas-elezra) or at hadaselezra@gmail.com.  
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/hadas-elezra)
 
 ---
